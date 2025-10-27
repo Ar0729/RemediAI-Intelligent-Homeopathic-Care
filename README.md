@@ -1,4 +1,4 @@
-**RemediAI: Intelligent Homeopathic Care**
+****RemediAI: Intelligent Homeopathic Care****
 
 **Introduction**
 RemediAI is an AI-driven homeopathic care system designed to suggest accurate remedies based on user symptoms. It uses NLP and machine learning to analyze text, voice, and image inputs, ensuring quick, reliable, and explainable recommendations.
