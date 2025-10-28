@@ -23,3 +23,5 @@ RemediAI is an AI-driven homeopathic care system designed to suggest accurate re
 
 **Contributors**
 Aryan Gunjewar — Project Lead & Developer
+
+**Interface Link:** file:///Users/aryan/Documents/Projects/Homeo/homo.html
